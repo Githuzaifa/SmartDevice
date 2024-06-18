@@ -1,0 +1,12 @@
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.MainForm.resources
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Resources.resources
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.SubForm1.resources
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.SubForm2.resources
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.vbproj.GenerateResource.Cache
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\QRCODE MATCHER.exe
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\QRCODE MATCHER.pdb
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\QRCODE MATCHER.xml
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\QRCODE MATCHER.exe
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\QRCODE MATCHER.xml
+G:\Freelance Project\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\QRCODE MATCHER.pdb
